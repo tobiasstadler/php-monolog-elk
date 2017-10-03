@@ -1,0 +1,13 @@
+{
+    "name": "tobiasstadler/php-monolog-elk",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Tobias Stadler",
+            "email": "ts.stadler@gmx.de"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}
